@@ -1,0 +1,102 @@
+[
+  {
+    "analysis": "01",
+    "sample_id": "IMG_07_TILE_001",
+    "incident_id": "414d729d233044b2a6180fda1ea20cbd",
+    "candidate_regions": 1,
+    "predicted_slick_percent": 0.07,
+    "iou_percent": 41.67,
+    "precision_percent": 45.45,
+    "recall_percent": 83.33
+  },
+  {
+    "analysis": "02",
+    "sample_id": "IMG_17_TILE_001",
+    "incident_id": "b6a52716634449fdb7495e4f1927a394",
+    "candidate_regions": 1,
+    "predicted_slick_percent": 0.09,
+    "iou_percent": 75.0,
+    "precision_percent": 92.31,
+    "recall_percent": 80.0
+  },
+  {
+    "analysis": "03",
+    "sample_id": "IMG_20_TILE_001",
+    "incident_id": "123f2bd5b7b7436183a41b31e74ea9f4",
+    "candidate_regions": 2,
+    "predicted_slick_percent": 0.96,
+    "iou_percent": 10.49,
+    "precision_percent": 11.15,
+    "recall_percent": 64.0
+  },
+  {
+    "analysis": "04",
+    "sample_id": "IMG_26_TILE_001",
+    "incident_id": "b68413656b7b456887eedb9ab29ecbe0",
+    "candidate_regions": 1,
+    "predicted_slick_percent": 0.29,
+    "iou_percent": 20.83,
+    "precision_percent": 22.73,
+    "recall_percent": 71.43
+  },
+  {
+    "analysis": "05",
+    "sample_id": "IMG_07_TILE_002",
+    "incident_id": "b1fb5505526c48ec8c5977675afe88fa",
+    "candidate_regions": 4,
+    "predicted_slick_percent": 0.58,
+    "iou_percent": 68.54,
+    "precision_percent": 69.71,
+    "recall_percent": 97.6
+  },
+  {
+    "analysis": "06",
+    "sample_id": "IMG_17_TILE_002",
+    "incident_id": "6b9eb445322248cd9d958de74df2e6c2",
+    "candidate_regions": 1,
+    "predicted_slick_percent": 0.42,
+    "iou_percent": 48.68,
+    "precision_percent": 58.27,
+    "recall_percent": 74.75
+  },
+  {
+    "analysis": "07",
+    "sample_id": "IMG_20_TILE_002",
+    "incident_id": "dfc3fd52b0104525affb9bdc956b2b01",
+    "candidate_regions": 2,
+    "predicted_slick_percent": 1.47,
+    "iou_percent": 3.84,
+    "precision_percent": 3.85,
+    "recall_percent": 89.47
+  },
+  {
+    "analysis": "08",
+    "sample_id": "IMG_26_TILE_002",
+    "incident_id": "5b92dde9615b48f9a60240e6a517dd84",
+    "candidate_regions": 3,
+    "predicted_slick_percent": 0.41,
+    "iou_percent": 22.56,
+    "precision_percent": 24.39,
+    "recall_percent": 75.0
+  },
+  {
+    "analysis": "09",
+    "sample_id": "IMG_07_TILE_003",
+    "incident_id": "1b4fc6814e1843be976f517e65d44c8b",
+    "candidate_regions": 1,
+    "predicted_slick_percent": 0.23,
+    "iou_percent": 17.14,
+    "precision_percent": 17.14,
+    "recall_percent": 100.0
+  },
+  {
+    "analysis": "10",
+    "sample_id": "IMG_17_TILE_003",
+    "incident_id": "06964f2a51d44f98981034f104a3225e",
+    "candidate_regions": 1,
+    "predicted_slick_percent": 0.17,
+    "iou_percent": 72.88,
+    "precision_percent": 84.31,
+    "recall_percent": 84.31
+  }
+]
